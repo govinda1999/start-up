@@ -1,0 +1,7 @@
+{
+    "name": "start up page",
+    "description":"A node js app using express",
+    "repository":"https://github.com/govinda1999/start-up",
+    "keywords":["node","twig","express"],
+    "image":"heroku/nodejs"
+}
