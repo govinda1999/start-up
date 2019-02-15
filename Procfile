@@ -1,1 +1,1 @@
-web: node main
+web: node main.js
