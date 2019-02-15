@@ -3,7 +3,7 @@ const bodyparser = require('body-parser');
 const mongoose = require('mongoose');
 const Add = require('./models/add');
 const database=require('./config/database');
-const port = process.env.port | 8080;
+const port = process.env.port || 8080;
 const app = express();
 app.use(bodyparser.json());
 app.set('views','./public');
