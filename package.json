@@ -10,8 +10,8 @@
   "author": "Govinda Patel",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mongoose": "^5.4.9",
     "twig": "^1.13.2"
   },
